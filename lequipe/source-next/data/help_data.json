@@ -1,0 +1,218 @@
+[
+  {
+    "page": "archetype",
+    "steps": [
+      {
+        "id": "welcome",
+        "text": "Salut ! Je suis l'Arbitre. Je vais vous aider à naviguer à travers l'histoire de ces légendes de la CDM.",
+        "position": {
+          "top": "15%",
+          "left": "20%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "left",
+        "elementId": null
+      },
+      {
+        "id": "slider_instr",
+        "text": "Faites défiler les cartes pour découvrir les types de fans, choisissez-en un et découvrez les interviews qu'on vous recommande !",
+        "position": {
+          "top": "30%",
+          "left": "80%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "right",
+        "elementId": "archetype-slider"
+      },
+      {
+        "id": "card_click",
+        "text": "Cliquez sur une carte pour voir les descriptions des différents types de fans. Si vous voulez passer cette étape, un bouton est disponible dessous.",
+        "position": {
+          "top": "50%",
+          "left": "20%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "left",
+        "elementId": "active-card"
+      },
+      {
+        "id": "help_btn",
+        "text": "Si vous avez besoin d'aide, cliquez sur mon sifflet !",
+        "position": {
+          "bottom": "10%",
+          "right": "10%"
+        },
+        "refereeSide": "right",
+        "elementId": "help-button"
+      }
+    ]
+  },
+  {
+    "page": "interviews",
+    "steps": [
+      {
+        "id": "intro_itw",
+        "text": "Ici, vous pouvez explorer les interviews des légendes associées à votre profil de fan. Naviguez, lisez et collectionnez !",
+        "position": {
+          "top": "15%",
+          "left": "2%"
+        },
+        "refereeSide": "left"
+      },
+      {
+        "id": "themes",
+        "text": "Explorez les témoignages selon différents thèmes. Ils sont alignés selon vos préférences, ou cliquez sur 'Tout voir' pour accéder à l'intégralité !",
+        "position": {
+          "top": "20%",
+          "right": "20%"
+        },
+        "refereeSide": "right"
+      },
+      {
+        "id": "read_badge",
+        "text": "Les articles déjà lus sont marqués d'un badge 'Déjà lu' et sont placés en bas de liste pour vous aider à compléter votre collection.",
+        "position": {
+          "top": "30%",
+          "left": "20%"
+        },
+        "refereeSide": "left"
+      },
+      {
+        "id": "click_itw",
+        "text": "Cliquez sur une citation pour lire l'intégralité de l'entretien et plonger dans l'histoire.",
+        "position": {
+          "top": "40%",
+          "right": "20%"
+        },
+        "refereeSide": "right"
+      }
+    ]
+  },
+  {
+    "page": "articles",
+    "steps": [
+      {
+        "id": "intro_articles",
+        "text": "Voici l'archive complète ! Retrouvez ici tous les entretiens de la Coupe du Monde classés pour vous.",
+        "position": {
+          "top": "15%",
+          "left": "20%"
+        },
+        "refereeSide": "left"
+      },
+      {
+        "id": "sort_articles",
+        "text": "Utilisez ces boutons pour trier les joueurs par nom, par pays ou par édition de la Coupe du Monde.",
+        "position": {
+          "top": "25%",
+          "right": "20%"
+        },
+        "refereeSide": "right"
+      },
+      {
+        "id": "explore_all",
+        "text": "C'est l'endroit idéal pour découvrir des joueurs que vous ne connaissez pas encore et débloquer toutes les cartes !",
+        "position": {
+          "top": "45%",
+          "left": "15%"
+        },
+        "refereeSide": "left"
+      }
+    ]
+  },
+  {
+    "page": "collection",
+    "steps": [
+      {
+        "id": "profil",
+        "text": "Voici votre profil de collectionneur ! Progressez, gagnez des trophées et débloquez de nouvelles cartes.",
+        "position": {
+          "top": "20%",
+          "left": "20%"
+        },
+        "refereeSide": "left"
+      },
+      {
+        "id": "intro_coll",
+        "text": "Découvrez votre galerie ! Chaque interview lue vous offre une carte unique à collectionner.",
+        "position": {
+          "top": "50%",
+          "right": "20%"
+        },
+        "refereeSide": "right"
+      }
+    ]
+  },
+  {
+    "page": "interviews/[slug]",
+    "steps": [
+      {
+        "id": "intro_slug",
+        "text": "Plongez au cœur de l'histoire ! Je vous laisse savourer cet entretien exclusif avec votre légende.",
+        "position": {
+          "top": "15%",
+          "left": "20%"
+        },
+        "refereeSide": "left"
+      },
+      {
+        "id": "quiz_hint",
+        "text": "Soyez attentif durant votre lecture... Un petit quiz vous attend à la fin pour prouver votre passion !",
+        "position": {
+          "top": "40%",
+          "right": "15%"
+        },
+        "refereeSide": "right"
+      },
+      {
+        "id": "collecte",
+        "text": "Si vous réussissez le quiz, vous pourrez collecter la carte de ce joueur juste ici, en bas.",
+        "position": {
+          "bottom": "15%",
+          "left": "20%"
+        },
+        "refereeSide": "left"
+      }
+    ]
+  },
+  {
+    "page": "credits",
+    "steps": [
+      {
+        "id": "welcome_credits",
+        "text": "Bienvenue dans les coulisses ! Découvrez l'équipe passionnée derrière ce projet et nos précieux partenaires.",
+        "position": {
+          "top": "150px",
+          "left": "50%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "right"
+      },
+      {
+        "id": "audio_credits",
+        "text": "L'ambiance sonore se déclenche au scroll. Profitez bien de la visite !",
+        "position": {
+          "top": "250px",
+          "left": "50%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "left"
+      }
+    ]
+  },
+  {
+    "page": "home",
+    "steps": [
+      {
+        "id": "welcome_home",
+        "text": "Bienvenue dans cette expérience immersive ! Je suis là pour vous guider. Cliquez sur le bouton ci-dessous pour découvrir votre profil de fan.",
+        "position": {
+          "top": "250px",
+          "left": "50%",
+          "transform": "translateX(-50%)"
+        },
+        "refereeSide": "right"
+      }
+    ]
+  }
+]

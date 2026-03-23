@@ -1,0 +1,25 @@
+{
+  "name": "equipe-foot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack",
+    "dev:turbo": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build",
+    "generate:list:db": "node scripts/generate-list-from-db.mjs",
+    "validate:data": "node scripts/validate-interviews-db.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^11.3.0",
+    "next": "^16.1.6",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "^16.1.6"
+  }
+}

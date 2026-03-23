@@ -1,3 +1,0 @@
-:HL["/lequipe/_next/static/chunks/32a7c5e5c0502a61.css","style"]
-:HL["/lequipe/_next/static/chunks/6bb911e325fd4c61.css","style"]
-0:{"buildId":"fI4LBvjRFQrYQyGk-O23T","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"interviews","paramType":null,"paramKey":"interviews","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"dobromir-jetchev-1966","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

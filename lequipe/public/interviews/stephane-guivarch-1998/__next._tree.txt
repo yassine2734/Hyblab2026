@@ -1,3 +1,0 @@
-:HL["/lequipe/_next/static/chunks/2300d579d7291808.css","style"]
-:HL["/lequipe/_next/static/chunks/9f4f88c756ac9cf9.css","style"]
-0:{"buildId":"586gsjzE1YXU96U_rtSUU","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"interviews","paramType":null,"paramKey":"interviews","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"d","paramKey":"stephane-guivarch-1998","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

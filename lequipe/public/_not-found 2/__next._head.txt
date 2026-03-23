@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[97367,["/lequipe/_next/static/chunks/a1c2ee938273be89.js","/lequipe/_next/static/chunks/c0b27e78e9be659b.js","/lequipe/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
-3:I[97367,["/lequipe/_next/static/chunks/a1c2ee938273be89.js","/lequipe/_next/static/chunks/c0b27e78e9be659b.js","/lequipe/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"fI4LBvjRFQrYQyGk-O23T","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FAF7F4"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Equipe"}],["$","meta","1",{"name":"description","content":"Redécouvrez les legendes de la CDM à travers leurs interviews, et collectionné leurs cartes"}]]}]}]}],null]}],"loading":null,"isPartial":false}

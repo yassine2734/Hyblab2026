@@ -1,0 +1,16 @@
+/* Page-level styles for Archetype Selection route */
+.container {
+    display: contents;
+    font-family: 'DM Sans', sans-serif;
+    --font-heading: 'AnekExpanded', 'Anek', sans-serif;
+    --font-heading-secondary: 'AnekExpanded', 'Anek', sans-serif;
+    --font-body: 'DM Sans', sans-serif;
+    --font-button: 'DM Sans', sans-serif;
+    --font-quote: 'DM Sans', sans-serif;
+    --font-intertext: 'DIN Regular', 'DIN Alternate', 'Bahnschrift', 'Arial Narrow', sans-serif;
+}
+
+/* Override the SiteShell's dark background for this page */
+.container :global(body) {
+    background: #FFF1ED;
+}
